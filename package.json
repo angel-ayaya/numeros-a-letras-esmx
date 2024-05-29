@@ -1,6 +1,6 @@
 {
   "name": "numeros-a-letras-esmx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convierte de números a letras en español",
   "main": "index.js",
   "scripts": {
