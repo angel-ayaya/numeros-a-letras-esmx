@@ -63,7 +63,5 @@ Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier duda o consulta, puedes contactarme a través de [tu correo electrónico] o visitar mi perfil de GitHub en [GitHub](https://github.com/tu-usuario).
+Para cualquier duda o consulta, puedes contactarme a través de as.angelomar@gmail.com o visitar mi perfil de GitHub en [GitHub](https://github.com/angel-ayaya).
 ```
-
-Copia este contenido en tu archivo `README.md` en la raíz de tu proyecto. Este archivo proporciona una guía clara sobre cómo instalar, usar y contribuir a tu paquete `numero-a-letras`, además de información sobre la licencia y contacto.
